@@ -1,2 +1,2 @@
-# TC1031-Portafolio_Final-
-Botnet solution and analisis using different Data Structures.
+# Botnet analysis
+Botnet solution and analysis using different Data Structures and basic algorithms.
